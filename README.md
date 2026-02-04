@@ -16,13 +16,7 @@ mission = "Teaching computers to help people"
 
 ### What I'm Working On
 
-<a href="https://github.com/wandb/weave">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wandb&repo=weave&theme=github_dark&hide_border=true&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wandb&repo=weave&hide_border=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wandb&repo=weave&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  </picture>
-</a>
+[![Weave](https://github-readme-stats.vercel.app/api/pin/?username=wandb&repo=weave&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6)](https://github.com/wandb/weave)
 
 ### Background
 
