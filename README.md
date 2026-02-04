@@ -1,7 +1,7 @@
-### hey
+### tim sweeney
 
-i'm tim. i work on [weave](https://github.com/wandb/weave) at weights & biases.
+building [weave](https://github.com/wandb/weave) — observability for ai applications.
 
-previously twitter, studied ml at georgia tech.
+principal engineer at weights & biases. previously twitter ml, georgia tech.
 
-[site](https://timssweeney.com) · [linkedin](https://linkedin.com/in/tssweeney)
+[timssweeney.com](https://timssweeney.com) · [linkedin](https://linkedin.com/in/tssweeney)
