@@ -16,7 +16,11 @@ mission = "Teaching computers to help people"
 
 ### What I'm Working On
 
-[![Weave](https://github-readme-stats.vercel.app/api/pin/?username=wandb&repo=weave&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6)](https://github.com/wandb/weave)
+<a href="https://github.com/wandb/weave">
+  <img src="https://img.shields.io/badge/wandb%2Fweave-LLM%20Observability%20%26%20Evaluation-0d1117?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Weave" />
+</a>
+
+<sub>**1,000+ stars** · Open-source toolkit for tracing, evaluating, and improving AI apps</sub>
 
 ### Background
 
