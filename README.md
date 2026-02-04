@@ -1,53 +1,56 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=120&section=header&text=&fontSize=0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=120&section=header&text=&fontSize=0" />
-  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=120&section=header&text=&fontSize=0" />
-</picture>
-
-## Hey, I'm Tim
-
-**Principal Software Engineer** at [Weights & Biases](https://wandb.ai)
-Building tools that help developers build better AI
-
-```python
-currently_building = "Weave"  # LLM observability & evaluation
-mission = "Teaching computers to help people"
+```
+                    ╭──────────────────────────────────────╮
+                    │  traded my board for a keyboard 🛹   │
+                    ╰──────────────────────────────────────╯
 ```
 
-### What I'm Working On
+### yo, i'm tim
 
-<a href="https://github.com/wandb/weave">
-  <img src="https://img.shields.io/badge/wandb%2Fweave-LLM%20Observability%20%26%20Evaluation-0d1117?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Weave" />
-</a>
+i build tools that help people build AI stuff.
+currently shredding code at **weights & biases** as lead maintainer of **[weave](https://github.com/wandb/weave)** — think observability for LLMs.
 
-<sub>**1,000+ stars** · Open-source toolkit for tracing, evaluating, and improving AI apps</sub>
+```python
+# life philosophy
+def approach(problem):
+    while not solved(problem):
+        try_something_new()
+        if crashed():
+            get_back_up()  # learned this one skating
+    return stoked
+```
 
-### Background
+---
 
-| | |
-|---|---|
-| `2020+` | **Weights & Biases** — Principal Software Engineer |
-| `2018` | **Twitter** — ML Platform Product Manager |
-| `2020` | **Georgia Tech** — MS Computer Science, Machine Learning |
+**the journey:**
 
-### Writing
+```
+2020  georgia tech        →   MS in ML (4.0 GPA, nerd alert)
+2018  twitter             →   taught models to rank tweets
+2015  cal poly            →   where it started
+now   wandb               →   making AI less of a black box
+```
 
-- [Ranking Tweets with TensorFlow](https://blog.tensorflow.org/2019/03/ranking-tweets-with-tensorflow.html) — *TensorFlow Blog*
-- [Embeddings @Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html) — *Twitter Engineering*
+---
+
+**writing that didn't get rejected:**
+
+- **[ranking tweets with tensorflow](https://blog.tensorflow.org/2019/03/ranking-tweets-with-tensorflow.html)** — tensorflow blog
+- **[embeddings @twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html)** — twitter engineering
 
 ---
 
 <p align="center">
-  <a href="https://timssweeney.com">
-    <img src="https://img.shields.io/badge/timssweeney.com-0d1117?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/tssweeney">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <i>"teaching computers to help people"</i>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=80&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=80&section=footer" />
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=80&section=footer" />
-</picture>
+<p align="center">
+  <a href="https://timssweeney.com">website</a> ·
+  <a href="https://linkedin.com/in/tssweeney">linkedin</a> ·
+  <a href="https://github.com/wandb/weave">weave</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tssweeney&color=22d3ee&style=flat-square&label=visitors" alt="visitors" />
+</p>
