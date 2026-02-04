@@ -1,56 +1,51 @@
-```
-                    ╭──────────────────────────────────────╮
-                    │  traded my board for a keyboard 🛹   │
-                    ╰──────────────────────────────────────╯
-```
+<div align="center">
 
-### yo, i'm tim
+# Tim Sweeney
 
-i build tools that help people build AI stuff.
-currently shredding code at **weights & biases** as lead maintainer of **[weave](https://github.com/wandb/weave)** — think observability for LLMs.
+**Principal Software Engineer** · Weights & Biases
 
-```python
-# life philosophy
-def approach(problem):
-    while not solved(problem):
-        try_something_new()
-        if crashed():
-            get_back_up()  # learned this one skating
-    return stoked
-```
+*Teaching computers to help people*
+
+<br />
+
+[![Website](https://img.shields.io/badge/timssweeney.com-0d1117?style=flat&logo=safari&logoColor=22d3ee)](https://timssweeney.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/tssweeney)
+
+</div>
 
 ---
 
-**the journey:**
+### Currently Building
 
 ```
-2020  georgia tech        →   MS in ML (4.0 GPA, nerd alert)
-2018  twitter             →   taught models to rank tweets
-2015  cal poly            →   where it started
-now   wandb               →   making AI less of a black box
+weave  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+       Observability and evaluation for LLM applications
+       → github.com/wandb/weave
+       → 1,000+ stars · 100+ contributors · 790+ dependents
 ```
 
+### Background
+
+```
+2020+  weights & biases    Principal Software Engineer, Lead Maintainer of Weave
+2018   twitter             ML Platform Product Manager
+2020   georgia tech        MS Computer Science · Machine Learning · 4.0
+```
+
+### Writing
+
+```
+tensorflow blog     Ranking Tweets with TensorFlow
+twitter eng         Embeddings @Twitter
+```
+
+<sub>
+  <a href="https://blog.tensorflow.org/2019/03/ranking-tweets-with-tensorflow.html">tensorflow ↗</a> ·
+  <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html">twitter ↗</a>
+</sub>
+
 ---
 
-**writing that didn't get rejected:**
-
-- **[ranking tweets with tensorflow](https://blog.tensorflow.org/2019/03/ranking-tweets-with-tensorflow.html)** — tensorflow blog
-- **[embeddings @twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html)** — twitter engineering
-
----
-
-<p align="center">
-  <i>"teaching computers to help people"</i>
-</p>
-
-<p align="center">
-  <a href="https://timssweeney.com">website</a> ·
-  <a href="https://linkedin.com/in/tssweeney">linkedin</a> ·
-  <a href="https://github.com/wandb/weave">weave</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tssweeney&color=22d3ee&style=flat-square&label=visitors" alt="visitors" />
-</p>
+<div align="center">
+<sub>Building tools for the people building AI</sub>
+</div>
